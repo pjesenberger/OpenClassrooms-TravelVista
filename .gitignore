@@ -1,0 +1,14 @@
+## User settings
+xcuserdata/
+
+## Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
+# Firebase config (ne pas publier)
+GoogleService-Info.plist
+encoded.txt
+.DS_Store
+xcuserdata/
+DerivedData/
+build/
+Secret.plist
